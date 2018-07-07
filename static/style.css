@@ -43,5 +43,5 @@ div.page {
 }
 
 .active {
-      style: none
+      background: black;
 }
